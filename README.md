@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ouzhoucheng&layout=compact&hide=javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ouzhoucheng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzhoucheng&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
-![](https://github-profile-trophy.vercel.app/?username=ouzhoucheng&row=1)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=ouzhoucheng&row=1) -->
